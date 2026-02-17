@@ -1,0 +1,14 @@
+# Echo English Tutor Models
+
+Download these files and place them in the python/models/ directory:
+
+1. LLM (Llama-3-8B-Instruct-v2-Q4_K_M.gguf):
+https://huggingface.co/MaziyarPanahi/Llama-3-8B-Instruct-v2-GGUF/resolve/main/Llama-3-8B-Instruct-v2-Q4_K_M.gguf
+
+2. TTS Voice (Amy Medium ONNX):
+https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/medium/en_US-amy-medium.onnx
+
+3. TTS Config:
+https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/medium/en_US-amy-medium.onnx.json
+
+Note: Whisper models will be downloaded automatically by faster-whisper on first run.
